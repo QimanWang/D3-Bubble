@@ -1,0 +1,8 @@
+svg:
+<defs> reuseable code
+gradient - color for shapes
+<pattern>
+    <image> points to an image
+set fill=url(#image_name)
+
+
